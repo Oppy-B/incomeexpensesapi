@@ -51,7 +51,8 @@ INSTALLED_APPS = [
     'drf_yasg',
     'authentication',
     'expenses',
-    'income'
+    'income',
+    'userstats'
 ]
 
                                                                     # NOTE :: ADDING SWAGGER SETTING TO ALLOW US PROVIDE THE ACCESS
